@@ -1,7 +1,7 @@
 ## This Library is for Controling LPD6803 RGB Leds via ESP8266 based boards the none blocking way
 
 
-this library is based on [this](https://github.com/alex-sherman/ESP8266-LPD6803)  by alex sherman.
+this library is based on [ESP8266-LPD6803](https://github.com/alex-sherman/ESP8266-LPD6803)  by alex sherman.
 
 I have improved many functions and also add some effects for using RGB LED with LPD6803 Chipset
 
